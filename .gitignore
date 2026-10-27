@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+*.log
+.DS_Store
+shot*.mjs
+assets/test-*.png
+assets/shot-*.png

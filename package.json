@@ -1,0 +1,8 @@
+{
+  "name": "youngjump",
+  "version": "1.0.0",
+  "description": "YoungJump - 免费无需注册的本地漫画阅读器",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
